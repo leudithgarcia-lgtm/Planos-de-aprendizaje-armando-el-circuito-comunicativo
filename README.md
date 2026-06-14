@@ -58,11 +58,11 @@ Cuando los estudiantes trabajan en grupos utilizando herramientas colaborativas 
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
 
-| Elemento           | Quién / Qué                  |          Detalles / Ejemplos                        | Representación visual |
-|--------------------|------------------------------|-----------------------------------------------------|-------- --------------|
-| 🔊 **Emisor**      | Docente                      |  Comparte información y actividades.                      |   👩‍🏫➡️💻     |
-| 👂 **Receptor**    | Estudiantes                  | Reciben y analizan la información.                         |    💻➡️👨‍🎓   |
-| 🌐 **Canal**       | GitHub                       | Repositorio, comentarios, Issues y Pull Requests.          |  🐙 GitHub   |
-| ⚠️ **Ruido**       | Barreras de comunicación     | Mala conexión, instrucciones confusas o poca participación.|  🚫📶        |
-| 🔁 **Retroalimentación** |  Docente y estudiantes | Comentarios, respuestas y correcciones.                    |     💬🔁     |
 
+| Elemento            | Quién / Qué                 | Detalles / Ejemplos                                    | Representación visual |
+|---------------------|-----------------------------|--------------------------------------------------------|----------------------|
+| 📢 Emisor           | Docente                     | Comparte información y actividades.                    | 👩‍🏫➡️💻 |
+| 👂 Receptor         | Estudiantes                 | Reciben y analizan la información.                     | 💻➡️👨‍🎓 |
+| 🌐 Canal            | GitHub                      | Repositorio, comentarios, Issues y Pull Requests.      | 🐙 GitHub |
+| ⚠️ Ruido            | Barreras de comunicación    | Mala conexión, instrucciones confusas o poca participación. | 🚫📶 |
+| 🔄 Retroalimentación | Docente y estudiantes      | Comentarios, respuestas y correcciones.                | 💬🔁 |
