@@ -52,16 +52,17 @@ Cuando los estudiantes trabajan en grupos utilizando herramientas colaborativas 
 - ⚠️ ¿Qué obstáculos interfieren en la comunicación?  
 
 ---
+<img width="1536" height="1024" alt="ChatGPT Image 14 jun 2026, 09_51_16 a m" src="https://github.com/user-attachments/assets/19748da5-4d6b-4d87-9357-d96dfca1ba10" />
 
 ## ⚡ 4️⃣ Diseño del circuito comunicativo
 
 📌 *Formato sugerido: tabla o esquema (puede incluir imágenes, íconos, emojis y enlaces).*
 
-| Elemento            | Quién / Qué | Detalles / Ejemplos                                      | Representación visual |
-|--------------------|------------|----------------------------------------------------------|----------------------|
-| 🔊 **Emisor**       |            |                                                          |                      |
-| 👂 **Receptor**     |            |                                                          |                      |
-| 🌐 **Canal**        |            | Ej: Google Meet, Moodle, WhatsApp, correo                |                      |
-| ⚠️ **Ruido**        |            | Ej: desconexión, distracción, mal diseño de contenido    |                      |
-| 🔁 **Retroalimentación** |      | Cómo se completa el circuito                             |                      |
+| Elemento           | Quién / Qué                  |          Detalles / Ejemplos                        | Representación visual |
+|--------------------|------------------------------|-----------------------------------------------------|-------- --------------|
+| 🔊 **Emisor**      | Docente                      |  Comparte información y actividades.                      |   👩‍🏫➡️💻     |
+| 👂 **Receptor**    | Estudiantes                  | Reciben y analizan la información.                         |    💻➡️👨‍🎓   |
+| 🌐 **Canal**       | GitHub                       | Repositorio, comentarios, Issues y Pull Requests.          |  🐙 GitHub   |
+| ⚠️ **Ruido**       | Barreras de comunicación     | Mala conexión, instrucciones confusas o poca participación.|  🚫📶        |
+| 🔁 **Retroalimentación** |  Docente y estudiantes | Comentarios, respuestas y correcciones.                    |     💬🔁     |
 
